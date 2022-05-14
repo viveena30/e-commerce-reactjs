@@ -1,0 +1,13 @@
+.thumbs{
+    display: none;
+    cursor: none;
+}
+
+.carousel-container{
+    margin-top: 180px;
+    /* margin-top: 150px; */
+}
+
+.carousel:last-child{
+    display: none;
+}

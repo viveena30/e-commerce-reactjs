@@ -1,0 +1,5 @@
+.category-container{
+    display: flex;
+    transition: all 300ms ease-in-out;
+
+}

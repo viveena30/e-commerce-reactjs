@@ -1,0 +1,11 @@
+.container{
+    height: 95vh;
+    width: 100%;
+    background-color: #f8f1e8;
+    background-color: #F9F1E7;
+
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

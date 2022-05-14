@@ -1,0 +1,26 @@
+.localstores-container  {
+    margin-top: 180px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitle{
+    margin-top: 20px;
+    margin-bottom : -20px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.localstore-card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 50px;
+    flex-wrap: wrap;
+align-items: center;
+width: 100%;
+}

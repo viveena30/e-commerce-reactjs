@@ -1,0 +1,32 @@
+.product-card{
+    height: 100%;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.product-card img{
+    height: 50%;
+    width: 100%;
+}
+
+.product-card h3{
+    padding: 10px 0;
+    width: 100%;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+}
+
+.product-card h2{
+    padding: 8px 0;
+}
+
+.product-card p{
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+/* section h2.section-heading:after{
+    background:#182c61;
+    content:"";
+    display:block;width:150px;height:3px;margin:20px auto} */

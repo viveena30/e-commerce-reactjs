@@ -1,0 +1,25 @@
+.electronics-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.page-container{
+    margin-top: 180px;
+}
+.featured{
+    display: flex;
+    align-items: center;
+}
+
+.featured-container{
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.featured-brand-products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

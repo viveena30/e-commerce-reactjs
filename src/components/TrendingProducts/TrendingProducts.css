@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    background-color: #f8f1e8;
+    background-color: #F9F1E7;
+
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.trending{
+    display: flex;
+    align-items: center;
+}
+
+h4{
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.trending-container{
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+}

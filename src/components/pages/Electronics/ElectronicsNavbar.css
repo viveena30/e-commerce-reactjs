@@ -1,0 +1,29 @@
+.electronics-navbar-container{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    z-index: 99;
+    align-items: center;
+
+}
+.brands-navbar-container {
+    height: 100%;
+    margin-top: -30px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    justify-content: space-around;
+    background-color: #f9f1e7;
+    padding: 0 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.brands-navbar-container li {
+    padding: 10px 15px;
+    cursor: pointer;
+}
